@@ -1,9 +1,9 @@
 
 ## Hello, Word! Me chamo Douglas 👋
 
-- 🔭 Sou Desenvolvedor de Software com foco em Mobile...
+- 🔭 Sou Desenvolvedor de Software com foco em Back-end...
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas ...
-- 💬 Competências ( Dart | Flutter | React Native | Firebase ) ...
+- 💬 Competências ( Python | Django | FastAPI | SQLite | Cloud ) ...
 - 😄 Pronouns: Ele/Dele ...
 
   ##
@@ -14,11 +14,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglasa&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
+  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
   
   ##
