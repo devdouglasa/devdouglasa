@@ -1,9 +1,9 @@
 
 ## Hello, Word! Me chamo Douglas 👋
 
-- 🔭 Sou Desenvolvedor de Software com foco em Back-end...
+- 🔭 Sou Desenvolvedor de Software com foco em Back-end e Mobile...
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas ...
-- 💬 Competências ( Python | Django | FastAPI | SQLite | Cloud ) ...
+- 💬 Competências ( Dart | Flutter | Python | Django | FastAPI | PostgreSQL | Firebase ) ...
 - 😄 Pronouns: Ele/Dele ...
 
   ##
@@ -14,11 +14,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglasa&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+
 </div>
   
   ##
