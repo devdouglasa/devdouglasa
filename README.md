@@ -1,9 +1,9 @@
 
 ## Hello, Word! Me chamo Douglas 👋
 
-- 🔭 Sou Desenvolvedor de Software com foco em Backend...
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas ...
-- 💬 Competências ( PHP | Laravel | Python | MySQL | Azure | Docker | Linux ) ...
+- 🔭 Sou Desenvolvedor de Software Fullstack
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
+- 💬 Competências ( Typescript | React | Node.js | Python | Flask | MySQL | AWS )
 
   ##
 
