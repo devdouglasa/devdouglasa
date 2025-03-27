@@ -1,9 +1,9 @@
 
 ## Hello, Word! Me chamo Douglas 👋
 
-- 🔭 Sou Desenvolvedor de Software Fullstack Mobile
+- 🔭 Sou Desenvolvedor de Software Fullstack Web
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
-- 💬 Competências ( Dart | Flutter | Kotlin | Python | Flask | MySQL | AWS )
+- 💬 Competências ( PHP | Láravel | Python | Flask | MySQL | AWS | Linux )
 
   ##
 
