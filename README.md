@@ -3,7 +3,7 @@
 
 - 🔭 Sou Desenvolvedor de Software Fullstack Web
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
-- 💬 Competências ( PHP | Láravel | Python | Flask | MySQL | AWS | Linux )
+- 💬 Competências ( PHP | Láravel | Dart | Flutter | MySQL | AWS | Linux )
 
   ##
 
