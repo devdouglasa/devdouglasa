@@ -1,10 +1,6 @@
 
 ## Hello, Word! Me chamo Douglas 👋
 
-- 🔭 Sou Desenvolvedor de Software Fullstack Web
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
-- 💬 Competências ( PHP | Láravel | Typescript | React | Next | MySQL | AWS | Linux )
-
   ##
 
 <div align="center">
