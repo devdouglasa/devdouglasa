@@ -1,7 +1,7 @@
 
 ## 👋 Olá, meu nome é Douglas!
 
-#### Sou desenvolvedor backend Node.ts e NestJS.
+#### Sou desenvolvedor fullstack .Net / React.
 
 ##
 
