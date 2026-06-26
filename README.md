@@ -1,7 +1,7 @@
 
 ## 👋 Olá, meu nome é Douglas!
 
-#### Sou desenvolvedor fullstack Typescript ( Nestjs + React.js ) & C# ( .NET + React.js ).
+#### Sou desenvolvedor fullstack Node.js ( Nestjs + React.js ) & C# ( .NET + React.js ).
 
 ##
 
