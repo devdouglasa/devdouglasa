@@ -1,7 +1,7 @@
 
 ## 👋 Olá, meu nome é Douglas!
 
-#### Sou desenvolvedor fullstack Node.js ( Nestjs + React.js ) & C# ( .NET + React.js ).
+#### Sou desenvolvedor fullstack Node.js ( Nestjs + React.js ).
 
 ##
 
@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
   <code><img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></code>
   <code><img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></code>
-  <code><img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"></code>
+  <code><img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></code>
   <code><img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"></code>
   <code><img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></code>
   <code><img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></code>
